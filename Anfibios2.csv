@@ -1,0 +1,510 @@
+OBJECTID_1,name,latitude,longitude,Categoria,Cobertura vegetal,Area protegida,Tipo,YearD,YearL,A_o de creacion,CaIUCN
+1,Atelopus lozanoi,4.38333,-73.98333,CR,Shrub,Sin registros en Pas,NA,2001,1993,NA,NA
+2,Atelopus lozanoi,4.72779,-73.82939,CR,Grassland,Chingaza,PNN,2001,1993,1977,II
+3,Atelopus lozanoi,4.66667,-73.75,CR,Shrub,Chingaza,PNN,2001,1993,1977,II
+4,Atelopus lozanoi,5.48108,-72.73128,CR,Paramo,Siscunci Oceta,Parque Natural Regional,2001,1993,2009,II
+5,Atelopus lozanoi,4.61339,-73.70107,CR,Paramo,Chingaza,PNN,2001,1993,1977,II
+6,Atelopus lozanoi,4.73513,-73.87462,CR,Paramo,Rio Blanco y Negro,Reserva Forestal Protectora Nacional,2001,1993,1990,VI
+7,Hyla nicefori,6.1,-72.33333,CR,Fragmented forest,Sin registros en Pas,NA,1970,1945,NA,NA
+8,Atelopus minutulus,4.18293,-73.81508,CR,Crops,Sin registros en Pas,NA,1988,1984,NA,NA
+9,Atelopus minutulus,4.30688,-73.85656,CR,Crops,Sin registros en Pas,NA,1988,1984,NA,NA
+10,Atelopus minutulus,4.16923,-73.81577,CR,Mature forest,Sin registros en Pas,NA,1988,1984,NA,NA
+11,Atelopus minutulus,4.192,-73.81083,CR,Mature forest,Sin registros en Pas,NA,1988,1984,NA,NA
+12,Atelopus minutulus,4.1728,-73.816,CR,Mature forest,Sin registros en Pas,NA,1988,1984,NA,NA
+13,Atelopus minutulus,4.15459,-73.8103,CR,Crops,Sin registros en Pas,NA,1988,1984,NA,NA
+14,Bolitoglossa pandi,4.2088,-74.47439,EN,Crops,Sin registros en Pas,NA,1963,2011,NA,NA
+15,Bolitoglossa pandi,5.03087,-74.25861,EN,Secundary forest,Sin registros en Pas,NA,1963,2011,NA,NA
+16,Bolitoglossa pandi,4.87077,-74.43777,EN,Crops,Sin registros en Pas,NA,1963,2011,NA,NA
+17,Bolitoglossa pandi,4.91667,-74.45,EN,Crops,Sin registros en Pas,NA,1963,2011,NA,NA
+18,Pristimantis acutirostris,6.21667,-73.08333,EN,Crops,Sin registros en Pas,NA,1984,2016,NA,NA
+19,Pristimantis acutirostris,6.0985,-73.19886,EN,Grassland,Sin registros en Pas,NA,1984,2016,NA,NA
+20,Pristimantis acutirostris,5.98556,-73.21702,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1984,2016,2011,VI
+21,Pristimantis acutirostris,6.11269,-73.21736,EN,Grassland,Sin registros en Pas,NA,1984,2016,NA,NA
+22,Pristimantis acutirostris,6.11037,-73.13882,EN,Secundary forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1984,2016,2011,VI
+23,Pristimantis acutirostris,6.0886,-73.1323,EN,Grassland,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1984,2016,2011,VI
+24,Pristimantis jorgevelosai,7.16722,-73.00675,EN,Crops,Sin registros en Pas,NA,1994,2004,NA,NA
+25,Pristimantis jorgevelosai,7.11909,-73.03756,EN,Crops,Cerro La Judia,Parque Natural Regional,1994,2004,2009,II
+26,Pristimantis jorgevelosai,7.04567,-72.98958,EN,Crops,Sin registros en Pas,NA,1994,2004,NA,NA
+27,Pristimantis jorgevelosai,7.04633,-72.96614,EN,Mature forest,El Rasgon,Parque Natural Regional,1994,2004,2009,II
+28,Pristimantis jorgevelosai,7.04783,-72.97994,EN,Mature forest,El Rasgon,Parque Natural Regional,1994,2004,2009,II
+29,Pristimantis jorgevelosai,7.13461,-73.02961,EN,Mature forest,Cerro La Judia,Parque Natural Regional,1994,2004,2009,II
+30,Pristimantis jorgevelosai,6.02946,-73.10922,EN,Mature forest,Guaneta. Alto del Rio Fonce,SFF,1994,2004,1993,IV
+31,Pristimantis jorgevelosai,7.04567,-72.98958,EN,Crops,Sin registros en Pas,NA,1994,2004,NA,NA
+32,Pristimantis jorgevelosai,7.12354,-72.99302,EN,Mature forest,Sin registros en Pas,NA,1994,2004,NA,NA
+33,Pristimantis pugnax,1.0945,-76.81598,VU,Mature forest,Sin registros en Pas,NA,1973,1990,NA,NA
+34,Pristimantis pugnax,1.88472,-75.69284,VU,Mature forest,Sin registros en Pas,NA,1973,1990,NA,NA
+35,Pristimantis pugnax,1.88848,-75.68848,VU,Mature forest,Sin registros en Pas,NA,1973,1990,NA,NA
+36,Pristimantis pugnax,1.86689,-75.62831,VU,Mature forest,Sin registros en Pas,NA,1973,1990,NA,NA
+37,Pristimantis pugnax,1.87208,-75.66411,VU,Mature forest,Sin registros en Pas,NA,1973,1990,NA,NA
+38,Pristimantis renjiforum,3.85623,-74.49354,EN,Mature forest,Sin registros en Pas,NA,2000,2014,NA,NA
+39,Pristimantis renjiforum,4.45584,-74.27623,EN,Crops,Sin registros en Pas,NA,2000,2014,NA,NA
+40,Pristimantis renjiforum,4.44222,-74.33551,EN,Crops,Sin registros en Pas,NA,2000,2014,NA,NA
+41,Pristimantis renjiforum,4.45015,-74.29931,EN,Crops,Sin registros en Pas,NA,2000,2014,NA,NA
+42,Pristimantis renjiforum,3.87521,-74.5151,EN,Mature forest,Sin registros en Pas,NA,2000,2014,NA,NA
+43,Pristimantis renjiforum,6.01403,-73.20907,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,2000,2014,2011,VI
+44,Pristimantis renjiforum,6.47645,-73.17955,EN,Mature forest,Sin registros en Pas,NA,2000,2014,NA,NA
+45,Pristimantis renjiforum,6.00976,-73.2277,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,2000,2014,2011,VI
+46,Pristimantis renjiforum,6.00946,-73.2218,EN,Crops,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,2000,2014,2011,VI
+47,Strabomantis ingeri,4.6416,-73.54791,VU,Grassland,Sin registros en Pas,NA,1961,2014,NA,NA
+48,Strabomantis ingeri,4.90472,-74.42944,VU,Crops,Sin registros en Pas,NA,1961,2014,NA,NA
+49,Strabomantis ingeri,6.105,-73.22833,VU,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1961,2014,2011,VI
+50,Strabomantis ingeri,6.09833,-73.28806,VU,Grassland,Sin registros en Pas,NA,1961,2014,NA,NA
+51,Strabomantis ingeri,6.0019,-73.22838,VU,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1961,2014,2011,VI
+52,Strabomantis ingeri,4.68284,-74.3899,VU,Secundary forest,Sin registros en Pas,NA,1961,2014,NA,NA
+53,Strabomantis ingeri,3.87521,-74.5151,VU,Mature forest,Sin registros en Pas,NA,1961,2014,NA,NA
+54,Strabomantis ingeri,6.10858,-73.1985,VU,Grassland,Sin registros en Pas,NA,1961,2014,NA,NA
+55,Strabomantis ingeri,4.68826,-74.3846,VU,Crops,Sin registros en Pas,NA,1961,2014,NA,NA
+56,Allobates ranoides,4.21158,-73.13042,EN,Secundary forest,Sin registros en Pas,NA,1918,2011,NA,NA
+57,Allobates ranoides,4.91667,-74.41667,EN,Crops,Sin registros en Pas,NA,1918,2011,NA,NA
+58,Allobates ranoides,4.6,-74.35,EN,Crops,Sin registros en Pas,NA,1918,2011,NA,NA
+59,Allobates ranoides,4.773,-73.038,EN,Grassland,Sin registros en Pas,NA,1918,2011,NA,NA
+60,Atelopus mandingues,4.56667,-73.68333,CR,Fragmented forest,Chingaza,PNN,2001,1994,1977,II
+61,Atelopus mandingues,4.59326,-73.69198,CR,Mature forest,Reserva Colombia,Reservas Forestales Protectoras Regionales,2001,1994,2008,VI
+62,Atelopus mandingues,4.58911,-73.67507,CR,Crops,Sin registros en Pas,NA,2001,1994,NA,NA
+63,Atelopus mandingues,4.59116,-73.68378,CR,Crops,Sin registros en Pas,NA,2001,1994,NA,NA
+64,Atelopus mandingues,4.59148,-73.6652,CR,Fragmented forest,Sin registros en Pas,NA,2001,1994,NA,NA
+65,Atelopus mandingues,4.56401,-73.6832,CR,Fragmented forest,Chingaza,PNN,2001,1994,1977,II
+66,Atelopus mittermeieri,6.01912,-73.20997,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,2006,2007,2011,VI
+67,Atelopus mittermeieri,6.11046,-73.19788,EN,Grassland,Sin registros en Pas,NA,2006,2007,NA,NA
+68,Atelopus mittermeieri,6.23333,-72.93333,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,2006,2007,2011,VI
+69,Atelopus mittermeieri,6.16667,-72.93333,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,2006,2007,2011,VI
+70,Atelopus mittermeieri,6.03222,-73.11045,EN,Mature forest,Guaneta. Alto del Rio Fonce,SFF,2006,2007,1993,IV
+71,Atelopus mittermeieri,6.02927,-73.11545,EN,Mature forest,Guaneta. Alto del Rio Fonce,SFF,2006,2007,1993,IV
+72,Atelopus monohernandezi,6.51667,-73.16667,CR,Crops,Sin registros en Pas,NA,2002,1995,NA,NA
+73,Atelopus monohernandezi,6.04143,-73.13963,CR,Mature forest,Guaneta. Alto del Rio Fonce,SFF,2002,1995,1993,IV
+74,Atelopus monohernandezi,6.00626,-73.23147,CR,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,2002,1995,2011,VI
+75,Atelopus monohernandezi,6.09963,-73.23156,CR,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,2002,1995,2011,VI
+76,Atelopus monohernandezi,6.15385,-73.28969,CR,Crops,Sin registros en Pas,NA,2002,1995,NA,NA
+77,Atelopus monohernandezi,6.01456,-73.2157,CR,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,2002,1995,2011,VI
+78,Atelopus monohernandezi,6.01826,-73.1931,CR,Mature forest,Guaneta. Alto del Rio Fonce,SFF,2002,1995,1993,IV
+79,Atelopus monohernandezi,6.08118,-73.2003,CR,Grassland,Sin registros en Pas,NA,2002,1995,NA,NA
+80,Hyloscirtus denticulentus,7.28813,-72.95443,EN,Crops,Sin registros en Pas,NA,1972,2011,NA,NA
+81,Hyloscirtus denticulentus,7.18348,-72.98778,EN,Shrub,Sin registros en Pas,NA,1972,2011,NA,NA
+82,Hyloscirtus denticulentus,7.07849,-73.06964,EN,Crops,Sin registros en Pas,NA,1972,2011,NA,NA
+83,Hyloscirtus denticulentus,6.88639,-73.36639,EN,Crops,Serrania de Los Yariguies,PNN,1972,2011,2005,II
+84,Hyloscirtus denticulentus,4.89554,-73.2543,EN,Grassland,Sin registros en Pas,NA,1972,2011,NA,NA
+85,Hyloscirtus denticulentus,7.25888,-72.9877,EN,Mature forest,Sin registros en Pas,NA,1972,2011,NA,NA
+86,Hyloscirtus denticulentus,7.17465,-73.0064,EN,Crops,Sin registros en Pas,NA,1972,2011,NA,NA
+87,Hyloscirtus denticulentus,6.01,-73.22,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1972,2011,2011,VI
+88,Hyloscirtus denticulentus,5.9,-73.33,EN,Mature forest,Sin registros en Pas,NA,1972,2011,NA,NA
+89,Hyloscirtus torrenticola,1.08305,-76.66112,VU,Grassland,Sin registros en Pas,NA,1978,1990,NA,NA
+90,Hyloscirtus torrenticola,1.72243,-75.66647,VU,Secundary forest,Sin registros en Pas,NA,1978,1990,NA,NA
+91,Hyloscirtus torrenticola,1.73068,-75.67653,VU,Secundary forest,Sin registros en Pas,NA,1978,1990,NA,NA
+92,Hyloscirtus torrenticola,1.86694,-75.64028,VU,Secundary forest,Sin registros en Pas,NA,1978,1990,NA,NA
+93,Hyloscirtus torrenticola,1.77145,-75.64713,VU,Mature forest,Sin registros en Pas,NA,1978,1990,NA,NA
+94,Hyloscirtus torrenticola,1.93215,-75.67799,VU,Crops,Sin registros en Pas,NA,1978,1990,NA,NA
+95,Hyloscirtus torrenticola,1.7701,-75.65187,VU,Mature forest,Sin registros en Pas,NA,1978,1990,NA,NA
+96,Hyloxalus ruizi,4.45017,-74.3123,CR,Shrub,Sin registros en Pas,NA,1982,1990,NA,NA
+97,Hyloxalus ruizi,4.38961,-74.32258,CR,Secundary forest,Sin registros en Pas,NA,1982,1990,NA,NA
+98,Hyloxalus ruizi,4.42032,-74.32928,CR,Secundary forest,Sin registros en Pas,NA,1982,1990,NA,NA
+99,Hyloxalus ruizi,4.4484,-74.3194,CR,Crops,Sin registros en Pas,NA,1982,1990,NA,NA
+100,Hyloxalus vergeli,4.36491,-74.35403,VU,Crops,Sin registros en Pas,NA,1940,2005,NA,NA
+101,Hyloxalus vergeli,4.34565,-74.5425,VU,Crops,Sin registros en Pas,NA,1940,2005,NA,NA
+102,Hyloxalus vergeli,4.18075,-74.53344,VU,Crops,Sin registros en Pas,NA,1940,2005,NA,NA
+103,Hyloxalus vergeli,4.47975,-73.88655,VU,Crops,Sin registros en Pas,NA,1940,2005,NA,NA
+104,Hyloxalus vergeli,4.46074,-73.82446,VU,Fragmented forest,Sin registros en Pas,NA,1940,2005,NA,NA
+105,Hyloxalus vergeli,4.34115,-74.46885,VU,Crops,Cuchilla de Piedras Blancas,Reservas Forestales Protectoras Regionales,1940,2005,1983,VI
+106,Hyloxalus vergeli,4.85098,-74.12712,VU,Crops,Sin registros en Pas,NA,1940,2005,NA,NA
+107,Hyloxalus vergeli,5.25,-74.5,VU,Grassland,Sin registros en Pas,NA,1940,2005,NA,NA
+108,Hypodactylus dolops,1.09117,-76.7345,VU,Mature forest,Sin registros en Pas,NA,1980,1990,NA,NA
+109,Hypodactylus dolops,1.77294,-75.64778,VU,Mature forest,Sin registros en Pas,NA,1980,1990,NA,NA
+110,Hypodactylus dolops,1.78978,-75.65387,VU,Grassland,Sin registros en Pas,NA,1980,1990,NA,NA
+111,Hypodactylus dolops,1.77223,-75.64541,VU,Mature forest,Sin registros en Pas,NA,1980,1990,NA,NA
+112,Hyalinobatrachium esmeralda,5.23297,-72.87347,EN,Mature forest,Sin registros en Pas,NA,1998,2011,NA,NA
+113,Hyalinobatrachium esmeralda,5.3018,-72.6751,EN,Mature forest,Sin registros en Pas,NA,1998,2011,NA,NA
+114,Hyalinobatrachium esmeralda,4.84474,-73.24909,EN,Grassland,Sin registros en Pas,NA,1998,2011,NA,NA
+115,Hyalinobatrachium esmeralda,4.27816,-73.59668,EN,Fragmented forest,Sin registros en Pas,NA,1998,2011,NA,NA
+116,Hyalinobatrachium esmeralda,3.99366,-73.83248,EN,Mature forest,Sin registros en Pas,NA,1998,2011,NA,NA
+117,Hyalinobatrachium esmeralda,5.294,-72.706,EN,Secundary forest,Sin registros en Pas,NA,1998,2011,NA,NA
+118,Hyalinobatrachium esmeralda,4.89508,-73.2819,EN,Secundary forest,Sin registros en Pas,NA,1998,2011,NA,NA
+119,Hyalinobatrachium esmeralda,4.26191,-73.5962,EN,Crops,Sin registros en Pas,NA,1998,2011,NA,NA
+120,Hyalinobatrachium esmeralda,4.26784,-73.5403,EN,Crops,Sin registros en Pas,NA,1998,2011,NA,NA
+121,Hyalinobatrachium esmeralda,4.15459,-73.8103,EN,Crops,Sin registros en Pas,NA,1998,2011,NA,NA
+122,Hyalinobatrachium ibama,5.984,-73.21802,VU,Riparian forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1998,2005,2011,VI
+123,Hyalinobatrachium ibama,6.64981,-73.04955,VU,Grassland,Sin registros en Pas,NA,1998,2005,NA,NA
+124,Hyalinobatrachium ibama,6.09833,-73.28806,VU,Grassland,Sin registros en Pas,NA,1998,2005,NA,NA
+125,Hyalinobatrachium ibama,7.20132,-72.96967,VU,Grassland,Sin registros en Pas,NA,1998,2005,NA,NA
+126,Hyalinobatrachium ibama,6.98515,-72.90195,VU,Fragmented forest,Sin registros en Pas,NA,1998,2005,NA,NA
+127,Hyalinobatrachium ibama,7.16863,-73.00698,VU,Crops,Sin registros en Pas,NA,1998,2005,NA,NA
+128,Hyalinobatrachium ibama,7.1165,-73.06698,VU,Mature forest,Sin registros en Pas,NA,1998,2005,NA,NA
+129,Hyalinobatrachium ibama,7.17465,-73.0064,VU,Crops,Sin registros en Pas,NA,1998,2005,NA,NA
+130,Hyalinobatrachium ibama,7.05436,-72.9371,VU,Grassland,El Rasgon,Parque Natural Regional,1998,2005,2009,II
+131,Rulyrana adiazeta,6.105,-73.22833,VU,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1991,2011,2011,VI
+132,Rulyrana adiazeta,6.85583,-73.4106,VU,Crops,Serrania de Los Yariguies,PNN,1991,2011,2005,II
+133,Rulyrana adiazeta,6.11534,-73.43172,VU,Crops,Sin registros en Pas,NA,1991,2011,NA,NA
+134,Rulyrana adiazeta,6.52227,-73.19143,VU,Shrub,Sin registros en Pas,NA,1991,2011,NA,NA
+135,Rulyrana adiazeta,6.54484,-73.17648,VU,Crops,Sin registros en Pas,NA,1991,2011,NA,NA
+136,Rulyrana adiazeta,6.11423,-73.22443,VU,Grassland,Sin registros en Pas,NA,1991,2011,NA,NA
+137,Rulyrana adiazeta,6.88639,-73.36639,VU,Crops,Serrania de Los Yariguies,PNN,1991,2011,2005,II
+138,Rulyrana adiazeta,6.16305,-73.4571,VU,Crops,Sin registros en Pas,NA,1991,2011,NA,NA
+139,Rulyrana adiazeta,6.52586,-73.18588,VU,Crops,Sin registros en Pas,NA,1991,2011,NA,NA
+140,Rulyrana adiazeta,4.93461,-74.4062,VU,Crops,Sin registros en Pas,NA,1991,2011,NA,NA
+141,Atelopus marinkellei,5.57176,-72.83335,CR,Paramo,Siscunci Oceta,Parque Natural Regional,1970,1996,2009,II
+142,Atelopus marinkellei,5.90019,-72.60864,CR,Shrub,Pisba,PNN,1970,1996,1977,II
+143,Atelopus marinkellei,5.40916,-73.29588,CR,Urban area,Sin registros en Pas,NA,1970,1996,NA,NA
+144,Atelopus marinkellei,5.50003,-72.74994,CR,Paramo,Siscunci Oceta,Parque Natural Regional,1970,1996,2009,II
+145,Atelopus marinkellei,5.54461,-72.92834,CR,Paramo,Sin registros en Pas,NA,1970,1996,NA,NA
+146,Atelopus marinkellei,5.53321,-72.88068,CR,Grassland,Sin registros en Pas,NA,1970,1996,NA,NA
+147,Atelopus marinkellei,5.49844,-72.75421,CR,Paramo,Siscunci Oceta,Parque Natural Regional,1970,1996,2009,II
+148,Atelopus marinkellei,5.59984,-73.03524,CR,Grassland,Sin registros en Pas,NA,1970,1996,NA,NA
+149,Atelopus marinkellei,5.51128,-72.76009,CR,Paramo,Siscunci Oceta,Parque Natural Regional,1970,1996,2009,II
+150,Atelopus marinkellei,5.98231,-72.90511,CR,Shrub,Sin registros en Pas,NA,1970,1996,NA,NA
+151,Atelopus marinkellei,5.65118,-72.8615,CR,Paramo,Siscunci Oceta,Parque Natural Regional,1970,1996,2009,II
+152,Atelopus marinkellei,5.39386,-73.24739,CR,Crops,Sin registros en Pas,NA,1970,1996,NA,NA
+153,Atelopus muisca,4.5422,-73.71687,CR,Paramo,Chingaza,PNN,1991,1996,1977,II
+154,Atelopus muisca,4.5203,-73.73609,CR,Shrub,Chingaza,PNN,1991,1996,1977,II
+155,Atelopus muisca,4.72747,-73.82954,CR,Shrub,Rio Blanco y Negro,Reserva Forestal Protectora Nacional,1991,1996,1990,VI
+156,Atelopus muisca,4.78841,-73.77867,CR,Mature forest,Sin registros en Pas,NA,1991,1996,NA,NA
+157,Atelopus muisca,4.64497,-73.74149,CR,Shrub,Chingaza,PNN,1991,1996,1977,II
+158,Atelopus muisca,4.79798,-73.77603,CR,Mature forest,Sin registros en Pas,NA,1991,1996,NA,NA
+159,Atelopus muisca,4.80183,-73.78143,CR,Mature forest,Sin registros en Pas,NA,1991,1996,NA,NA
+160,Atelopus muisca,4.5802,-73.6833,CR,Fragmented forest,Chingaza,PNN,1991,1996,1977,II
+161,Atelopus muisca,4.6195,-73.7215,CR,Shrub,Chingaza,PNN,1991,1996,1977,II
+162,Atelopus muisca,4.55921,-73.6833,CR,Fragmented forest,Chingaza,PNN,1991,1996,1977,II
+163,Atelopus muisca,4.73633,-73.87494,CR,Paramo,Chingaza,PNN,1991,1996,1977,II
+164,Atelopus muisca,4.565,-73.72854,CR,Shrub,Chingaza,PNN,1991,1996,1977,II
+165,Atelopus subornatus,4.38621,-74.32157,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+166,Atelopus subornatus,4.31175,-74.28643,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+167,Atelopus subornatus,4.4943,-74.37813,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+168,Atelopus subornatus,4.2675,-74.27583,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+169,Atelopus subornatus,4.44688,-74.31848,CR,Shrub,Sin registros en Pas,NA,1899,1999,NA,NA
+170,Atelopus subornatus,4.90472,-74.42944,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+171,Atelopus subornatus,4.09556,-74.40139,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+172,Atelopus subornatus,4.52901,-74.3335,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+173,Atelopus subornatus,4.22598,-74.2519,CR,Paramo,Sin registros en Pas,NA,1899,1999,NA,NA
+174,Atelopus subornatus,4.06188,-74.433,CR,Mature forest,Sin registros en Pas,NA,1899,1999,NA,NA
+175,Atelopus subornatus,4.39271,-74.33583,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+176,Atelopus subornatus,4.2616,-74.27329,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+177,Atelopus subornatus,4.26513,-74.2737,CR,Crops,Sin registros en Pas,NA,1899,1999,NA,NA
+178,Bolitoglossa lozanoi,5.46001,-74.3447,VU,Crops,Sin registros en Pas,NA,2001,2014,NA,NA
+179,Bolitoglossa lozanoi,5.948,-74.50207,VU,Grassland,Sin registros en Pas,NA,2001,2014,NA,NA
+180,Bolitoglossa lozanoi,5.56667,-74.3,VU,Grassland,Sin registros en Pas,NA,2001,2014,NA,NA
+181,Bolitoglossa lozanoi,6.31043,-73.89329,VU,Grassland,Serrania de Los Yariguies,PNN,2001,2014,2005,II
+182,Bolitoglossa lozanoi,6.75557,-73.10234,VU,Urban area,Sin registros en Pas,NA,2001,2014,NA,NA
+183,Bolitoglossa lozanoi,6.62778,-74.03001,VU,Grassland,Sin registros en Pas,NA,2001,2014,NA,NA
+184,Bolitoglossa lozanoi,5.46845,-74.32011,VU,Crops,Sin registros en Pas,NA,2001,2014,NA,NA
+185,Bolitoglossa lozanoi,6.64991,-73.64972,VU,Fragmented forest,Serrania de Los Yariguies,PNN,2001,2014,2005,II
+186,Bolitoglossa lozanoi,7.43072,-73.76842,VU,Grassland,Sin registros en Pas,NA,2001,2014,NA,NA
+187,Bolitoglossa lozanoi,6.9633,-73.4471,VU,Crops,Serrania de Los Yariguies,PNN,2001,2014,2005,II
+188,Bolitoglossa lozanoi,7.02199,-73.29621,VU,Grassland,Sin registros en Pas,NA,2001,2014,NA,NA
+189,Bolitoglossa lozanoi,7.0076,-73.38913,VU,Grassland,Serrania de Los Yariguies,PNN,2001,2014,2005,II
+190,Bolitoglossa lozanoi,7.02196,-73.15451,VU,Crops,Sin registros en Pas,NA,2001,2014,NA,NA
+191,Bolitoglossa lozanoi,7.42348,-73.73929,VU,Grassland,Sin registros en Pas,NA,2001,2014,NA,NA
+192,Pristimantis affinis,4.5487,-73.92443,VU,Crops,Sin registros en Pas,NA,1899,2014,NA,NA
+193,Pristimantis affinis,4.47393,-73.82321,VU,Mature forest,Sin registros en Pas,NA,1899,2014,NA,NA
+194,Pristimantis affinis,4.47916,-73.84485,VU,Mature forest,Sin registros en Pas,NA,1899,2014,NA,NA
+195,Pristimantis affinis,4.38561,-73.80302,VU,Mature forest,Sin registros en Pas,NA,1899,2014,NA,NA
+196,Pristimantis affinis,4.37945,-73.79563,VU,Grassland,Sin registros en Pas,NA,1899,2014,NA,NA
+197,Pristimantis affinis,4.56401,-73.6832,VU,Fragmented forest,Chingaza,PNN,1899,2014,1977,II
+198,Pristimantis affinis,5.5,-73.96667,VU,Crops,Sin registros en Pas,NA,1899,2014,NA,NA
+199,Pristimantis affinis,4.84896,-74.15094,VU,Crops,Sin registros en Pas,NA,1899,2014,NA,NA
+200,Pristimantis affinis,4.47304,-73.83537,VU,Mature forest,Sin registros en Pas,NA,1899,2014,NA,NA
+201,Pristimantis affinis,4.47334,-73.8039,VU,Fragmented forest,Sin registros en Pas,NA,1899,2014,NA,NA
+202,Pristimantis affinis,4.63,-73.72,VU,Shrub,Chingaza,PNN,1899,2014,1977,II
+203,Pristimantis carranguerorum,5.20936,-72.78344,VU,Mature forest,Sin registros en Pas,NA,1994,2016,NA,NA
+204,Pristimantis carranguerorum,5.42326,-72.71714,VU,Crops,Sin registros en Pas,NA,1994,2016,NA,NA
+205,Pristimantis carranguerorum,5.43306,-72.69722,VU,Riparian forest,Sin registros en Pas,NA,1994,2016,NA,NA
+206,Pristimantis carranguerorum,4.37877,-73.79322,VU,Mature forest,Sin registros en Pas,NA,1994,2016,NA,NA
+207,Pristimantis carranguerorum,4.37467,-73.8118,VU,Grassland,Sin registros en Pas,NA,1994,2016,NA,NA
+208,Pristimantis carranguerorum,4.62908,-73.46407,VU,Fragmented forest,Chingaza,PNN,1994,2016,1977,II
+209,Pristimantis carranguerorum,4.89554,-73.2543,VU,Grassland,Sin registros en Pas,NA,1994,2016,NA,NA
+210,Pristimantis carranguerorum,5.30075,-72.67057,VU,Mature forest,Sin registros en Pas,NA,1994,2016,NA,NA
+211,Pristimantis carranguerorum,4.87203,-73.18407,VU,Secundary forest,Sin registros en Pas,NA,1994,2016,NA,NA
+212,Pristimantis carranguerorum,4.93693,-73.34449,VU,Crops,Sin registros en Pas,NA,1994,2016,NA,NA
+213,Pristimantis carranguerorum,5.23383,-72.67189,VU,Secundary forest,Sin registros en Pas,NA,1994,2016,NA,NA
+214,Pristimantis carranguerorum,5.43354,-72.71625,VU,Mature forest,Sin registros en Pas,NA,1994,2016,NA,NA
+215,Pristimantis carranguerorum,6.32,-72.03,VU,Mature forest,El Cocuy,PNN,1994,2016,1977,II
+216,Pristimantis bacchus,6.11111,-73.22006,EN,Grassland,Sin registros en Pas,NA,1984,2015,NA,NA
+217,Pristimantis bacchus,6.00903,-73.15322,EN,Mature forest,Guaneta. Alto del Rio Fonce,SFF,1984,2015,1993,IV
+218,Pristimantis bacchus,5.98047,-73.21883,EN,Paramo,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1984,2015,2011,VI
+219,Pristimantis bacchus,6.14105,-73.10236,EN,Grassland,Sin registros en Pas,NA,1984,2015,NA,NA
+220,Pristimantis bacchus,6.0261,-73.20251,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1984,2015,2011,VI
+221,Pristimantis bacchus,5.96402,-73.1811,EN,Crops,Sin registros en Pas,NA,1984,2015,NA,NA
+222,Pristimantis bacchus,6.84333,-73.36917,EN,Crops,Serrania de Los Yariguies,PNN,1984,2015,2005,II
+223,Pristimantis bacchus,6.88639,-73.36639,EN,Crops,Serrania de Los Yariguies,PNN,1984,2015,2005,II
+224,Pristimantis bacchus,6.01238,-73.16303,EN,Mature forest,Guaneta. Alto del Rio Fonce,SFF,1984,2015,1993,IV
+225,Pristimantis bacchus,6.95339,-73.31842,EN,Crops,Serrania de Los Yariguies,PNN,1984,2015,2005,II
+226,Pristimantis bacchus,6.69089,-73.44928,EN,Grassland,Serrania de Los Yariguies,PNN,1984,2015,2005,II
+227,Pristimantis bacchus,6.09572,-73.2164,EN,Grassland,Sin registros en Pas,NA,1984,2015,NA,NA
+228,Pristimantis bacchus,6.08925,-73.2187,EN,Secundary forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1984,2015,2011,VI
+229,Pristimantis bacchus,6.10858,-73.1985,EN,Grassland,Sin registros en Pas,NA,1984,2015,NA,NA
+230,Pristimantis bacchus,5.96292,-73.18655,EN,Crops,Sin registros en Pas,NA,1984,2015,NA,NA
+231,Pristimantis bacchus,6.41667,-73.16667,EN,Riparian forest,Sin registros en Pas,NA,1984,2015,NA,NA
+232,Pristimantis bicolor,7.04567,-72.98958,VU,Crops,Sin registros en Pas,NA,1983,2007,NA,NA
+233,Pristimantis bicolor,7.04633,-72.96614,VU,Mature forest,El Rasgon,Parque Natural Regional,1983,2007,2009,II
+234,Pristimantis bicolor,7.04783,-72.97976,VU,Mature forest,El Rasgon,Parque Natural Regional,1983,2007,2009,II
+235,Pristimantis bicolor,6.01142,-73.21745,VU,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1983,2007,2011,VI
+236,Pristimantis bicolor,6.64994,-73.04927,VU,Grassland,Sin registros en Pas,NA,1983,2007,NA,NA
+237,Pristimantis bicolor,6.09724,-73.16598,VU,Secundary forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1983,2007,2011,VI
+238,Pristimantis bicolor,6.10714,-73.22323,VU,Crops,Sin registros en Pas,NA,1983,2007,NA,NA
+239,Pristimantis bicolor,4.90472,-74.42944,VU,Crops,Sin registros en Pas,NA,1983,2007,NA,NA
+240,Pristimantis bicolor,6.04372,-73.2193,VU,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1983,2007,2011,VI
+241,Pristimantis bicolor,7.18829,-72.98392,VU,Crops,Sin registros en Pas,NA,1983,2007,NA,NA
+242,Pristimantis bicolor,6.105,-73.22833,VU,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1983,2007,2011,VI
+243,Pristimantis bicolor,6.08111,-73.20028,VU,Grassland,Sin registros en Pas,NA,1983,2007,NA,NA
+244,Pristimantis bicolor,7.00675,-72.98495,VU,Crops,Sin registros en Pas,NA,1983,2007,NA,NA
+245,Pristimantis bicolor,7.11343,-72.93954,VU,Crops,Sin registros en Pas,NA,1983,2007,NA,NA
+246,Pristimantis bicolor,6.87667,-73.38528,VU,Crops,Serrania de Los Yariguies,PNN,1983,2007,2005,II
+247,Pristimantis bicolor,6.84333,-73.36917,VU,Crops,Serrania de Los Yariguies,PNN,1983,2007,2005,II
+248,Pristimantis bicolor,6.88639,-73.36639,VU,Crops,Serrania de Los Yariguies,PNN,1983,2007,2005,II
+249,Pristimantis bicolor,7.11975,-73.01752,VU,Mature forest,Cerro La Judia,Parque Natural Regional,1983,2007,2009,II
+250,Pristimantis bicolor,6.95339,-73.31842,VU,Crops,Serrania de Los Yariguies,PNN,1983,2007,2005,II
+251,Pristimantis bicolor,6.63958,-73.552,VU,Crops,Serrania de Los Yariguies,PNN,1983,2007,2005,II
+252,Pristimantis bicolor,6.916,-73.30203,VU,Grassland,Serrania de Los Yariguies,PNN,1983,2007,2005,II
+253,Pristimantis bicolor,6.0886,-73.1323,VU,Grassland,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1983,2007,2011,VI
+254,Pristimantis bicolor,7.04633,-72.96281,VU,Grassland,El Rasgon,Parque Natural Regional,1983,2007,2009,II
+255,Pristimantis bicolor,7.15547,-73.11133,VU,Grassland,Sin registros en Pas,NA,1983,2007,NA,NA
+256,Pristimantis bicolor,4.7,-74.41667,VU,Crops,Sin registros en Pas,NA,1983,2007,NA,NA
+257,Pristimantis bicolor,6.10734,-73.19823,VU,Grassland,Sin registros en Pas,NA,1983,2007,NA,NA
+258,Pristimantis bicolor,4.66698,-74.35719,VU,Grassland,Sin registros en Pas,NA,1983,2007,NA,NA
+259,Pristimantis bicolor,4.90477,-74.4294,VU,Crops,Sin registros en Pas,NA,1983,2007,NA,NA
+260,Pristimantis bicolor,6.08925,-73.2187,VU,Secundary forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1983,2007,2011,VI
+261,Pristimantis bicolor,6.10858,-73.1985,VU,Grassland,Sin registros en Pas,NA,1983,2007,NA,NA
+262,Tachiramantis douglasi,7.54378,-72.5169,VU,Mature forest,Sin registros en Pas,NA,1996,2015,NA,NA
+263,Tachiramantis douglasi,7.10596,-73.01015,VU,Mature forest,Cerro La Judia,Parque Natural Regional,1996,2015,2009,II
+264,Tachiramantis douglasi,7.09487,-73.01282,VU,Shrub,Cerro La Judia,Parque Natural Regional,1996,2015,2009,II
+265,Tachiramantis douglasi,7.37567,-72.93753,VU,Shrub,Sin registros en Pas,NA,1996,2015,NA,NA
+266,Tachiramantis douglasi,7.37599,-72.86606,VU,Secundary forest,Santurban,Parque Natural Regional,1996,2015,2013,II
+267,Tachiramantis douglasi,7.19149,-73.00386,VU,Fragmented forest,Tama,PNN,1996,2015,1977,II
+268,Tachiramantis douglasi,7.00675,-72.98495,VU,Crops,Sin registros en Pas,NA,1996,2015,NA,NA
+269,Tachiramantis douglasi,7.75383,-72.90542,VU,Mature forest,Santurban,Parque Natural Regional,1996,2015,2013,II
+270,Tachiramantis douglasi,7.04156,-72.9589,VU,Secundary forest,El Rasgon,Parque Natural Regional,1996,2015,2009,II
+271,Tachiramantis douglasi,7.11185,-72.98244,VU,Secundary forest,Sin registros en Pas,NA,1996,2015,NA,NA
+272,Tachiramantis douglasi,7.04783,-72.97994,VU,Mature forest,El Rasgon,Parque Natural Regional,1996,2015,2009,II
+273,Tachiramantis douglasi,7.53963,-72.77467,VU,Crops,Sin registros en Pas,NA,1996,2015,NA,NA
+274,Tachiramantis douglasi,7.14183,-73.00471,VU,Fragmented forest,Sin registros en Pas,NA,1996,2015,NA,NA
+275,Tachiramantis douglasi,7.09917,-73.00129,VU,Grassland,Sin registros en Pas,NA,1996,2015,NA,NA
+276,Tachiramantis douglasi,7.04633,-72.96281,VU,Secundary forest,El Rasgon,Parque Natural Regional,1996,2015,2009,II
+277,Tachiramantis douglasi,7.1087,-72.9809,VU,Secundary forest,Sin registros en Pas,NA,1996,2015,NA,NA
+278,Tachiramantis douglasi,7.42958,-72.44533,VU,Grassland,Sin registros en Pas,NA,1996,2015,NA,NA
+279,Pristimantis elegans,4.56383,-74.04049,VU,Crops,Bosque Oriental Bogota,Reserva Forestal Protectora Nacional,1863,2015,1976,VI
+280,Pristimantis elegans,4.28648,-74.20499,VU,Paramo,Sumapaz,PNN,1863,2015,1997,II
+281,Pristimantis elegans,5.21583,-74.01361,VU,Crops,Paramo de Guargua y Laguna Verde,Reservas Forestales Protectoras Regionales,1863,2015,2009,VI
+282,Pristimantis elegans,4.51752,-73.75779,VU,Paramo,Chingaza,PNN,1863,2015,1977,II
+283,Pristimantis elegans,4.90134,-74.2714,VU,Shrub,Sin registros en Pas,NA,1863,2015,NA,NA
+284,Pristimantis elegans,4.51747,-73.74822,VU,Paramo,Chingaza,PNN,1863,2015,1977,II
+285,Pristimantis elegans,5.98505,-73.05788,VU,Paramo,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1863,2015,2011,VI
+286,Pristimantis elegans,4.76259,-73.84703,VU,Shrub,Chingaza,PNN,1863,2015,1977,II
+287,Pristimantis elegans,4.60881,-74.03682,VU,Crops,Bosque Oriental Bogota,Reserva Forestal Protectora Nacional,1863,2015,1976,VI
+288,Pristimantis elegans,4.45659,-74.08154,VU,Shrub,Sin registros en Pas,NA,1863,2015,NA,NA
+289,Pristimantis elegans,4.68333,-73.8,VU,Paramo,Chingaza,PNN,1863,2015,1977,II
+290,Pristimantis elegans,4.76294,-73.84681,VU,Shrub,Chingaza,PNN,1863,2015,1977,II
+291,Pristimantis elegans,4.70523,-73.80307,VU,Paramo,Chingaza,PNN,1863,2015,1977,II
+292,Pristimantis elegans,5.01081,-74.20529,VU,Paramo,Rio Subachoque y Pantano de Arce,Distritos Regionales De Manejo Integrado,1863,2015,1997,VI
+293,Pristimantis elegans,5.88,-72.77,VU,Crops,Sin registros en Pas,NA,1863,2015,NA,NA
+294,Pristimantis elegans,6.02975,-73.10399,VU,Mature forest,Guaneta. Alto del Rio Fonce,SFF,1863,2015,1993,IV
+295,Pristimantis elegans,4.80414,-73.8058,VU,Paramo,Sin registros en Pas,NA,1863,2015,NA,NA
+296,Pristimantis elegans,4.84896,-74.15094,VU,Crops,Sin registros en Pas,NA,1863,2015,NA,NA
+297,Pristimantis elegans,5.00726,-74.1938,VU,Crops,Rio Subachoque y Pantano de Arce,Distritos Regionales De Manejo Integrado,1863,2015,1997,VI
+298,Pristimantis elegans,4.53198,-73.7756,VU,Paramo,Chingaza,PNN,1863,2015,1977,II
+299,Pristimantis elegans,6,-73.16667,VU,Mature forest,Sin registros en Pas,NA,1863,2015,NA,NA
+300,Pristimantis elegans,4.565,-73.72854,VU,Shrub,Chingaza,PNN,1863,2015,1977,II
+301,Pristimantis elegans,4.6075,-74.05531,VU,Shrub,Bosque Oriental Bogota,Reserva Forestal Protectora Nacional,1863,2015,1976,VI
+302,Pristimantis elegans,4.38,-74.33,VU,Crops,Sin registros en Pas,NA,1863,2015,NA,NA
+303,Pristimantis elegans,4.38,-74.23,VU,Paramo,Sin registros en Pas,NA,1863,2015,NA,NA
+304,Pristimantis elegans,4.33333,-74.16667,VU,Crops,Sin registros en Pas,NA,1863,2015,NA,NA
+305,Pristimantis elegans,5.20442,-73.25264,VU,Paramo,Sin registros en Pas,NA,1863,2015,NA,NA
+306,Pristimantis elegans,4.28462,-74.2065,VU,Paramo,Sumapaz,PNN,1863,2015,1997,II
+307,Pristimantis elegans,4.51,-74.08,VU,Shrub,Bosque Oriental Bogota,Reserva Forestal Protectora Nacional,1863,2015,1976,VI
+308,Pristimantis frater,7.3538,-72.37887,VU,Mature forest,Sin registros en Pas,NA,1899,2015,NA,NA
+309,Pristimantis frater,7.35658,-72.4719,VU,Fragmented forest,Tama,PNN,1899,2015,1977,II
+310,Pristimantis frater,4.89556,-73.25444,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+311,Pristimantis frater,4.85722,-73.29333,VU,Mature forest,Sin registros en Pas,NA,1899,2015,NA,NA
+312,Pristimantis frater,4.34295,-73.85349,VU,Crops,Sin registros en Pas,NA,1899,2015,NA,NA
+313,Pristimantis frater,4.83673,-73.45399,VU,Fragmented forest,Tama,PNN,1899,2015,1977,II
+314,Pristimantis frater,3.76316,-73.85177,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+315,Pristimantis frater,4.29502,-73.59316,VU,Fragmented forest,Sin registros en Pas,NA,1899,2015,NA,NA
+316,Pristimantis frater,4.27428,-73.59346,VU,Fragmented forest,Sin registros en Pas,NA,1899,2015,NA,NA
+317,Pristimantis frater,4.34547,-73.73328,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+318,Pristimantis frater,3.78864,-73.84606,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+319,Pristimantis frater,4.89556,-73.25444,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+320,Pristimantis frater,4.75417,-73.36972,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+321,Pristimantis frater,4.85465,-73.28576,VU,Secundary forest,Sin registros en Pas,NA,1899,2015,NA,NA
+322,Pristimantis frater,5.43306,-72.69722,VU,Riparian forest,Sin registros en Pas,NA,1899,2015,NA,NA
+323,Pristimantis frater,4.25462,-73.79169,VU,Mature forest,Sin registros en Pas,NA,1899,2015,NA,NA
+324,Pristimantis frater,4.73111,-73.36306,VU,Fragmented forest,Sin registros en Pas,NA,1899,2015,NA,NA
+325,Pristimantis frater,4.34851,-73.85769,VU,Crops,Sin registros en Pas,NA,1899,2015,NA,NA
+326,Pristimantis frater,4.12172,-73.88417,VU,Mature forest,Sin registros en Pas,NA,1899,2015,NA,NA
+327,Pristimantis frater,4.1296,-73.84795,VU,Mature forest,Sin registros en Pas,NA,1899,2015,NA,NA
+328,Pristimantis frater,4.8414,-73.27012,VU,Riparian forest,Sin registros en Pas,NA,1899,2015,NA,NA
+329,Pristimantis frater,4.24985,-73.58019,VU,Riparian forest,Sin registros en Pas,NA,1899,2015,NA,NA
+330,Pristimantis frater,4.16172,-73.68767,VU,Crops,Sin registros en Pas,NA,1899,2015,NA,NA
+331,Pristimantis frater,4.16759,-73.68205,VU,Mature forest,Sin registros en Pas,NA,1899,2015,NA,NA
+332,Pristimantis frater,4.85545,-73.2946,VU,Mature forest,Sin registros en Pas,NA,1899,2015,NA,NA
+333,Pristimantis frater,4.55,-73.36667,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+334,Pristimantis frater,4.7676,-73.3226,VU,Urban area,Sin registros en Pas,NA,1899,2015,NA,NA
+335,Pristimantis frater,4.64958,-73.32198,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+336,Pristimantis frater,4.89554,-73.2543,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+337,Pristimantis frater,4.84792,-73.27124,VU,Crops,Sin registros en Pas,NA,1899,2015,NA,NA
+338,Pristimantis frater,4.73098,-73.363,VU,Fragmented forest,Sin registros en Pas,NA,1899,2015,NA,NA
+339,Pristimantis frater,5.30417,-72.67889,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+340,Pristimantis frater,4.21844,-73.815,VU,Secundary forest,Sin registros en Pas,NA,1899,2015,NA,NA
+341,Pristimantis frater,3.93198,-73.7676,VU,Grassland,Sin registros en Pas,NA,1899,2015,NA,NA
+342,Pristimantis frater,4.30034,-73.5937,VU,Fragmented forest,Sin registros en Pas,NA,1899,2015,NA,NA
+343,Pristimantis frater,4.17287,-73.816,VU,Mature forest,Sin registros en Pas,NA,1899,2015,NA,NA
+344,Pristimantis frater,4.15459,-73.8103,VU,Crops,Sin registros en Pas,NA,1899,2015,NA,NA
+345,Pristimantis frater,7.66667,-72.58333,VU,Fragmented forest,Sin registros en Pas,NA,1899,2015,NA,NA
+346,Pristimantis frater,5.38908,-72.48604,VU,Fragmented forest,Sin registros en Pas,NA,1899,2015,NA,NA
+347,Pristimantis merostictus,7.04567,-72.98958,EN,Crops,Sin registros en Pas,NA,1984,2004,NA,NA
+348,Pristimantis merostictus,7.04633,-72.96614,EN,Mature forest,El Rasgon,Parque Natural Regional,1984,2004,2009,II
+349,Pristimantis merostictus,7.04783,-72.97994,EN,Mature forest,El Rasgon,Parque Natural Regional,1984,2004,2009,II
+350,Pristimantis merostictus,7.06247,-72.97578,EN,Mature forest,El Rasgon,Parque Natural Regional,1984,2004,2009,II
+351,Pristimantis merostictus,5.9693,-73.19242,EN,Fragmented forest,Sin registros en Pas,NA,1984,2004,NA,NA
+352,Pristimantis merostictus,6.00718,-73.21551,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1984,2004,2011,VI
+353,Pristimantis merostictus,6.84333,-73.36917,EN,Mature forest,Serrania de Los Yariguies,PNN,1984,2004,2005,II
+354,Pristimantis merostictus,6.88639,-73.36639,EN,Crops,Serrania de Los Yariguies,PNN,1984,2004,2005,II
+355,Pristimantis merostictus,6.87667,-73.38528,EN,Crops,Serrania de Los Yariguies,PNN,1984,2004,2005,II
+356,Pristimantis merostictus,7.04633,-72.96281,EN,Mature forest,El Rasgon,Parque Natural Regional,1984,2004,2009,II
+357,Pristimantis merostictus,6.0886,-73.1323,EN,Grassland,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1984,2004,2011,VI
+358,Pristimantis merostictus,6.06397,-73.12878,EN,Mature forest,Guaneta. Alto del Rio Fonce,SFF,1984,2004,1993,IV
+359,Pristimantis merostictus,6.01238,-73.16303,EN,Mature forest,Guaneta. Alto del Rio Fonce,SFF,1984,2004,1993,IV
+360,Pristimantis merostictus,7.04783,-72.97994,EN,Mature forest,El Rasgon,Parque Natural Regional,1984,2004,2009,II
+361,Pristimantis merostictus,6.01238,-73.16303,EN,Mature forest,Guaneta. Alto del Rio Fonce,SFF,1984,2004,1993,IV
+362,Pristimantis merostictus,7.04633,-72.96281,EN,Mature forest,El Rasgon,Parque Natural Regional,1984,2004,2009,II
+363,Pristimantis merostictus,7.14183,-73.00471,EN,Fragmented forest,Sin registros en Pas,NA,1984,2004,NA,NA
+364,Pristimantis merostictus,6.95512,-73.00272,EN,Grassland,Sin registros en Pas,NA,1984,2004,NA,NA
+365,Pristimantis merostictus,6.0886,-73.1323,EN,Grassland,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1984,2004,2011,VI
+366,Pristimantis petersi,1.08998,-76.82336,VU,Mature forest,Sin registros en Pas,NA,1991,2004,NA,NA
+367,Pristimantis petersi,1.16293,-76.92438,VU,Crops,Sin registros en Pas,NA,1991,2004,NA,NA
+368,Pristimantis petersi,1.18056,-77.00648,VU,Grassland,Sin registros en Pas,NA,1991,2004,NA,NA
+369,Pristimantis petersi,1.13577,-76.90709,VU,Mature forest,Sin registros en Pas,NA,1991,2004,NA,NA
+370,Pristimantis petersi,1.18341,-76.86535,VU,Grassland,Sin registros en Pas,NA,1991,2004,NA,NA
+371,Pristimantis petersi,1.19232,-76.86374,VU,Grassland,Sin registros en Pas,NA,1991,2004,NA,NA
+372,Pristimantis petersi,1.12791,-76.92781,VU,Mature forest,Sin registros en Pas,NA,1991,2004,NA,NA
+373,Pristimantis petersi,1.24874,-76.92129,VU,Mature forest,Sin registros en Pas,NA,1991,2004,NA,NA
+374,Pristimantis petersi,1.13587,-76.90874,VU,Grassland,Sin registros en Pas,NA,1991,2004,NA,NA
+375,Pristimantis petersi,1.18468,-76.94665,VU,Grassland,Sin registros en Pas,NA,1991,2004,NA,NA
+376,Andinobates virolinensis,6.1,-73.21667,EN,Grassland,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1992,2006,2011,VI
+377,Andinobates virolinensis,6.13611,-73.30861,EN,Grassland,Sin registros en Pas,NA,1992,2006,NA,NA
+378,Andinobates virolinensis,6.00876,-73.24433,EN,Grassland,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1992,2006,2011,VI
+379,Andinobates virolinensis,6.09833,-73.28806,EN,Grassland,Sin registros en Pas,NA,1992,2006,NA,NA
+380,Andinobates virolinensis,6.08794,-73.21723,EN,Secundary forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1992,2006,2011,VI
+381,Andinobates virolinensis,6.28958,-73.30297,EN,Grassland,Sin registros en Pas,NA,1992,2006,NA,NA
+382,Andinobates virolinensis,6.146,-73.16141,EN,Crops,Sin registros en Pas,NA,1992,2006,NA,NA
+383,Andinobates virolinensis,6.11361,-73.17532,EN,Crops,Sin registros en Pas,NA,1992,2006,NA,NA
+384,Andinobates virolinensis,6.51667,-73.16667,EN,Crops,Sin registros en Pas,NA,1992,2006,NA,NA
+385,Andinobates virolinensis,6.41915,-73.22521,EN,Crops,Sin registros en Pas,NA,1992,2006,NA,NA
+386,Andinobates virolinensis,6.32854,-73.21406,EN,Grassland,Sin registros en Pas,NA,1992,2006,NA,NA
+387,Andinobates virolinensis,6.35577,-73.2567,EN,Crops,Sin registros en Pas,NA,1992,2006,NA,NA
+388,Andinobates virolinensis,6.41667,-73.16667,EN,Riparian forest,Sin registros en Pas,NA,1992,2006,NA,NA
+389,Andinobates virolinensis,6.10846,-73.2283,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1992,2006,2011,VI
+390,Andinobates virolinensis,6.01456,-73.2157,EN,Mature forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1992,2006,2011,VI
+391,Andinobates virolinensis,6.09541,-73.2006,EN,Grassland,Sin registros en Pas,NA,1992,2006,NA,NA
+392,Allobates juanii,4.52063,-73.36243,CR,Grassland,Sin registros en Pas,NA,1994,2011,NA,NA
+393,Allobates juanii,3.94097,-73.82178,CR,Secundary forest,Sin registros en Pas,NA,1994,2011,NA,NA
+394,Allobates juanii,3.74688,-73.83684,CR,Grassland,Tama,PNN,1994,2011,1977,II
+395,Allobates juanii,4.15402,-73.6667,CR,Crops,Quebrada Honda,Reserva Forestal Protectora Nacional,1994,2011,1945,VI
+396,Allobates juanii,3.92778,-73.75527,CR,Crops,Sin registros en Pas,NA,1994,2011,NA,NA
+397,Allobates juanii,4.22713,-73.58942,CR,Crops,Sin registros en Pas,NA,1994,2011,NA,NA
+398,Allobates juanii,4.16909,-73.60721,CR,Crops,Sin registros en Pas,NA,1994,2011,NA,NA
+399,Allobates juanii,4.26903,-73.58796,CR,Fragmented forest,Sin registros en Pas,NA,1994,2011,NA,NA
+400,Allobates juanii,5.18333,-72.58333,CR,Grassland,Sin registros en Pas,NA,1994,2011,NA,NA
+401,Allobates juanii,5.31667,-72.58333,CR,Grassland,Sin registros en Pas,NA,1994,2011,NA,NA
+402,Allobates juanii,7.02,-72.07,CR,Grassland,Sin registros en Pas,NA,1994,2011,NA,NA
+403,Allobates juanii,4.64958,-73.32198,CR,Grassland,Sin registros en Pas,NA,1994,2011,NA,NA
+404,Allobates juanii,4.7676,-73.3226,CR,Urban area,Sin registros en Pas,NA,1994,2011,NA,NA
+405,Allobates juanii,3.93198,-73.7676,CR,Grassland,Sin registros en Pas,NA,1994,2011,NA,NA
+406,Allobates juanii,4.82542,-73.17135,CR,Crops,Sin registros en Pas,NA,1994,2011,NA,NA
+407,Centrolene buckleyi,6.0305,-73.12324,VU,Mature forest,Guaneta. Alto del Rio Fonce,SFF,1882,2014,1993,IV
+408,Centrolene buckleyi,5.3287,-73.99605,VU,Grassland,Sin registros en Pas,NA,1882,2014,NA,NA
+409,Centrolene buckleyi,4.71167,-73.9,VU,Mature forest,Sin registros en Pas,NA,1882,2014,NA,NA
+410,Centrolene buckleyi,4.7012,-74.28436,VU,Riparian forest,Sin registros en Pas,NA,1882,2014,NA,NA
+411,Centrolene buckleyi,5.56282,-72.90119,VU,Grassland,Sin registros en Pas,NA,1882,2014,NA,NA
+412,Centrolene buckleyi,5.99525,-72.95149,VU,Crops,Sin registros en Pas,NA,1882,2014,NA,NA
+413,Centrolene buckleyi,4.67958,-74.03101,VU,Shrub,Bosque Oriental Bogota,Reserva Forestal Protectora Nacional,1882,2014,1976,VI
+414,Centrolene buckleyi,4.99474,-73.74712,VU,Grassland,Sin registros en Pas,NA,1882,2014,NA,NA
+415,Centrolene buckleyi,5.55948,-72.90436,VU,Grassland,Sin registros en Pas,NA,1882,2014,NA,NA
+416,Centrolene buckleyi,7.04157,-72.97081,VU,Mature forest,El Rasgon,Parque Natural Regional,1882,2014,2009,II
+417,Centrolene buckleyi,4.56988,-74.03133,VU,Riparian forest,Bosque Oriental Bogota,Reserva Forestal Protectora Nacional,1882,2014,1976,VI
+418,Centrolene buckleyi,5.21423,-73.99796,VU,Shrub,Paramo de Guargua y Laguna Verde,Reservas Forestales Protectoras Regionales,1882,2014,2009,VI
+419,Centrolene buckleyi,4.66047,-74.02103,VU,Crops,Sin registros en Pas,NA,1882,2014,NA,NA
+420,Centrolene buckleyi,7.35078,-72.92316,VU,Mature forest,Sin registros en Pas,NA,1882,2014,NA,NA
+421,Centrolene buckleyi,7.09406,-73.0018,VU,Grassland,Sin registros en Pas,NA,1882,2014,NA,NA
+422,Centrolene buckleyi,5.83333,-72.66667,VU,Grassland,Sin registros en Pas,NA,1882,2014,NA,NA
+423,Centrolene buckleyi,5.22123,-74.0008,VU,Shrub,Paramo de Guargua y Laguna Verde,Reservas Forestales Protectoras Regionales,1882,2014,2009,VI
+424,Centrolene buckleyi,5.55898,-72.89884,VU,Grassland,Sin registros en Pas,NA,1882,2014,NA,NA
+425,Centrolene buckleyi,4.55794,-74.0036,VU,Riparian forest,Sin registros en Pas,NA,1882,2014,NA,NA
+426,Colomascirtus lindae,1.22681,-76.94794,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+427,Colomascirtus lindae,1.31674,-77.00768,VU,Crops,Sin registros en Pas,NA,1978,1999,NA,NA
+428,Colomascirtus lindae,1.24071,-76.95343,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+429,Colomascirtus lindae,1.1616,-76.8519,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+430,Colomascirtus lindae,1.21216,-76.86145,VU,Mature forest,Sin registros en Pas,NA,1978,1999,NA,NA
+431,Colomascirtus lindae,1.12789,-76.98354,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+432,Colomascirtus lindae,1.86765,-75.64014,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+433,Colomascirtus lindae,1.8851,-75.63684,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+434,Colomascirtus lindae,1.85473,-75.63134,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+435,Colomascirtus lindae,1.19114,-76.89222,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+436,Colomascirtus lindae,1.13982,-76.90697,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+437,Colomascirtus lindae,1.85272,-75.6458,VU,Grassland,Sin registros en Pas,NA,1978,1999,NA,NA
+438,Colomascirtus lindae,1.68326,-75.65385,VU,Secundary forest,Sin registros en Pas,NA,1978,1999,NA,NA
+439,Colomascirtus lindae,1.78885,-75.75957,VU,Mature forest,Sin registros en Pas,NA,1978,1999,NA,NA
+440,Hyloscirtus piceigularis,6.10841,-73.29919,EN,Crops,Sin registros en Pas,NA,1982,1987,NA,NA
+441,Hyloscirtus piceigularis,6.64976,-73.04945,EN,Grassland,Sin registros en Pas,NA,1982,1987,NA,NA
+442,Hyloscirtus piceigularis,4.7,-74.41667,EN,Crops,Sin registros en Pas,NA,1982,1987,NA,NA
+443,Hyloscirtus piceigularis,6.08925,-73.2187,EN,Secundary forest,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1982,1987,2011,VI
+444,Hyloscirtus piceigularis,4.90477,-74.4294,EN,Crops,Sin registros en Pas,NA,1982,1987,NA,NA
+445,Hyloscirtus piceigularis,8.48882,-73.38127,EN,Crops,Sin registros en Pas,NA,1982,1987,NA,NA
+446,Hyloscirtus piceigularis,7.13581,-73.0094,EN,Grassland,Sin registros en Pas,NA,1982,1987,NA,NA
+447,Hyloscirtus piceigularis,10.37139,-72.95417,EN,Mature forest,Serrania del Perija,PNN,1982,1987,2016,II
+448,Hyloscirtus piceigularis,8.32473,-73.41204,EN,Shrub,Sin registros en Pas,NA,1982,1987,NA,NA
+449,Hyloscirtus piceigularis,10.56649,-72.8473,EN,Grassland,Serrania del Perija,PNN,1982,1987,2016,II
+450,Hyloscirtus piceigularis,6.29827,-73.15058,EN,Grassland,Sin registros en Pas,NA,1982,1987,NA,NA
+451,Hyloscirtus piceigularis,8.42503,-73.40094,EN,Mature forest,Sin registros en Pas,NA,1982,1987,NA,NA
+452,Hyloscirtus piceigularis,6.01238,-73.16303,EN,Mature forest,Guaneta. Alto del Rio Fonce,SFF,1982,1987,1993,IV
+453,Hyloscirtus piceigularis,7.04783,-72.97994,EN,Mature forest,El Rasgon,Parque Natural Regional,1982,1987,2009,II
+454,Bolitoglossa capitana,4.86722,-74.42361,CR,Crops,Salto El Tequendama y Cerro Manjui,Distritos Regionales De Manejo Integrado,1963,2005,1999,VI
+455,Bolitoglossa capitana,4.71667,-74.31667,CR,Grassland,Sin registros en Pas,NA,1963,2005,NA,NA
+456,Bolitoglossa capitana,4.90231,-74.49056,CR,Secundary forest,Sin registros en Pas,NA,1963,2005,NA,NA
+457,Bolitoglossa capitana,4.53148,-74.336,CR,Shrub,Sin registros en Pas,NA,1963,2005,NA,NA
+458,Centrolene daidaleum,8.24667,-73.25,VU,Shrub,Sin registros en Pas,NA,1991,2010,NA,NA
+459,Centrolene daidaleum,4.88986,-74.58185,VU,Secundary forest,Sin registros en Pas,NA,1991,2010,NA,NA
+460,Centrolene daidaleum,7.20826,-73.01125,VU,Fragmented forest,Sin registros en Pas,NA,1991,2010,NA,NA
+461,Centrolene daidaleum,8.4077,-73.38904,VU,Mature forest,Sin registros en Pas,NA,1991,2010,NA,NA
+462,Centrolene daidaleum,8.25136,-73.25362,VU,Shrub,Sin registros en Pas,NA,1991,2010,NA,NA
+463,Centrolene daidaleum,5.85862,-73.54053,VU,Mature forest,Sin registros en Pas,NA,1991,2010,NA,NA
+464,Centrolene daidaleum,6.52,-73.17,VU,Crops,Sin registros en Pas,NA,1991,2010,NA,NA
+465,Centrolene daidaleum,7.15,-73.02,VU,Crops,Sin registros en Pas,NA,1991,2010,NA,NA
+466,Centrolene daidaleum,7.17,-73.01,VU,Crops,Sin registros en Pas,NA,1991,2010,NA,NA
+467,Centrolene daidaleum,8.23,-73.4,VU,Secundary forest,Sin registros en Pas,NA,1991,2010,NA,NA
+468,Centrolene petrophilum,5.84821,-74.29172,EN,Mature forest,Serrania de Las Quinchas,Parque Natural Regional,1991,1983,2008,II
+469,Centrolene petrophilum,5.10971,-73.34099,EN,Crops,Sin registros en Pas,NA,1991,1983,NA,NA
+470,Centrolene petrophilum,5.11056,-73.23306,EN,Grassland,Sin registros en Pas,NA,1991,1983,NA,NA
+471,Centrolene petrophilum,5.30128,-72.67038,EN,Mature forest,Sin registros en Pas,NA,1991,1983,NA,NA
+472,Centrolene petrophilum,5.11065,-73.2331,EN,Grassland,Sin registros en Pas,NA,1991,1983,NA,NA
+473,Cryptobatrachus fuhrmanni,6.55032,-73.19388,VU,Crops,Sin registros en Pas,NA,1914,2012,NA,NA
+474,Cryptobatrachus fuhrmanni,8.17832,-73.33139,VU,Grassland,Sin registros en Pas,NA,1914,2012,NA,NA
+475,Cryptobatrachus fuhrmanni,5.56073,-74.30829,VU,Crops,Sin registros en Pas,NA,1914,2012,NA,NA
+476,Cryptobatrachus fuhrmanni,5.58719,-74.3041,VU,Grassland,Sin registros en Pas,NA,1914,2012,NA,NA
+477,Cryptobatrachus fuhrmanni,4.91667,-74.45,VU,Crops,Sin registros en Pas,NA,1914,2012,NA,NA
+478,Cryptobatrachus fuhrmanni,6.58333,-73.08333,VU,Grassland,Sin registros en Pas,NA,1914,2012,NA,NA
+479,Cryptobatrachus fuhrmanni,6.87889,-72.85944,VU,Crops,Sin registros en Pas,NA,1914,2012,NA,NA
+480,Hyloscirtus lynchi,7.09431,-73.01033,EN,Paramo,Sin registros en Pas,NA,1991,2000,NA,NA
+481,Hyloscirtus lynchi,7.10915,-73.0099,EN,Mature forest,Cerro La Judia,Parque Natural Regional,1991,2000,2009,II
+482,Hyloscirtus lynchi,7.10134,-73.01108,EN,Grassland,Cerro La Judia,Parque Natural Regional,1991,2000,2009,II
+483,Hyloscirtus lynchi,6.0886,-73.1323,EN,Grassland,Paramos de Guantiva y La Rusia,Distritos Regionales De Manejo Integrado,1991,2000,2011,VI
+484,Hyloscirtus lynchi,5.93406,-73.08336,EN,Paramo,Sin registros en Pas,NA,1991,2000,NA,NA
+485,Hyloscirtus lynchi,7.1092,-72.9901,EN,Mature forest,Sin registros en Pas,NA,1991,2000,NA,NA
+486,Centrolene geckoideum,5.44817,-72.71868,VU,Mature forest,Sin registros en Pas,NA,1872,2007,NA,NA
+487,Centrolene geckoideum,1.794,-75.69125,VU,Mature forest,Sin registros en Pas,NA,1872,2007,NA,NA
+488,Centrolene geckoideum,1.88939,-75.70584,VU,Mature forest,Sin registros en Pas,NA,1872,2007,NA,NA
+489,Centrolene geckoideum,5.44663,-72.72027,VU,Grassland,Sin registros en Pas,NA,1872,2007,NA,NA
+490,Centrolene geckoideum,1.83929,-75.69554,VU,Grassland,Sin registros en Pas,NA,1872,2007,NA,NA
+491,Centrolene geckoideum,1.74611,-75.73123,VU,Mature forest,Sin registros en Pas,NA,1872,2007,NA,NA
+492,Atelopus pedimarmoratus,4.58901,-73.54744,CR,Fragmented forest,Sin registros en Pas,NA,1963,1990,NA,NA
+493,Atelopus pedimarmoratus,4.63333,-73.55,CR,Grassland,Sin registros en Pas,NA,1963,1990,NA,NA
+494,Pristimantis hernandezi ,1.8099,-75.76206,EN,Mature forest,Sin registros en Pas,NA,1983,1990,NA,NA
+495,Pristimantis hernandezi ,1.86328,-75.71083,EN,Mature forest,Sin registros en Pas,NA,1983,1990,NA,NA
+496,Pristimantis hernandezi ,1.93215,-75.67799,EN,Crops,Sin registros en Pas,NA,1983,1990,NA,NA
+497,Pristimantis hernandezi ,1.98656,-76.22299,EN,Crops,Sin registros en Pas,NA,1983,1990,NA,NA
+498,Pristimantis mnionaetes,5.36771,-73.24671,EN,Secundary forest,Sin registros en Pas,NA,1998,2015,NA,NA
+499,Pristimantis mnionaetes,5.35204,-73.27999,EN,Secundary forest,Sin registros en Pas,NA,1998,2015,NA,NA
+500,Pristimantis mnionaetes,5.0772,-74.12637,EN,Grassland,Sin registros en Pas,NA,1998,2015,NA,NA
+501,Strabomantis cornutus,1.08981,-76.73334,VU,Mature forest,Sin registros en Pas,NA,1871,1990,NA,NA
+502,Strabomantis cornutus,1.66239,-75.80661,VU,Mature forest,Sin registros en Pas,NA,1871,1990,NA,NA
+503,Atelopus petriruizi ,2.83333,-74.86667,CR,Mature forest,Cordillera de los Picachos,PNN,1999,1998,1977,II
+504,Atelopus petriruizi ,2.14179,-75.00044,CR,Mature forest,Sin registros en Pas,NA,1999,1998,NA,NA
+505,Dendropsophus stingi,5.22913,-72.85871,VU,Mature forest,Sin registros en Pas,NA,1994,2006,NA,NA
+506,Dendropsophus stingi,4.8521,-73.2959,VU,Mature forest,Sin registros en Pas,NA,1994,2006,NA,NA
+507,Hyloxalus edwardsi,4.66076,-74.02075,CR,Crops,Sin registros en Pas,NA,1982,1996,NA,NA
+508,Hyloxalus edwardsi,4.56997,-74.0295,CR,Paramo,Bosque Oriental Bogota,Reserva Forestal Protectora Nacional,1982,1996,1976,VI
+509,Hyloxalus edwardsi,4.55,-73.96655,CR,Fragmented forest,Sin registros en Pas,NA,1982,1996,NA,NA
